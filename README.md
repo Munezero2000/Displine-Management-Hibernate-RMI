@@ -1,1 +1,1 @@
-# Displine-Management-Hibernate-RMI
+# Displine-Management-System-Hibernate-RMI
